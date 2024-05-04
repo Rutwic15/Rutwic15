@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm RUTWICK ACHANTI</h1>
+<h3 align="center">Hi 👋, I'm RUTWICK ACHANTI</h1>
 - 🔭 I’m Intrested in **Full Stack Developmen and Devops**
 
 - 🌱 I’m currently learning **Spring Boot and Web3**
